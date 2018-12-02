@@ -1,3 +1,4 @@
+//NOTE// This repository is no more updated. It's migrated to https://gitlab.com/stevenshiau/drbl.
 Package: drbl
 Description: diskless remote boot, and a disk cloning utility
  DRBL (Diskless Remote Boot in Linux) provides a diskless or
